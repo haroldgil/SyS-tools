@@ -1,5 +1,6 @@
 ## Introduction
 The abundance of R tools freely-available online for data analysis and visualization presents not only opportunities, but also challenges for adoption in that these tools must be integrated so as to allow a structured workflow. Many public health surveillance practitioners do not have the time available to: 
+
 * scavenge for tools,
 * align their functions so as to create a relevant set of visuals, and
 * integrate these visuals into a dashboard that allows a streamlined surveillance workflow. 
@@ -8,6 +9,7 @@ An openly-available, structured framework that allows simple integration of anal
 
 ## Features
 This webpage showcases several analytic tools for syndromic data analysis. Examples include: 
+
 * historical trend-line
 * heatmaps
 * change-point detection
