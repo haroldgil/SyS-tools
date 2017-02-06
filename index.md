@@ -32,10 +32,10 @@ This site also describes how to mesh features from different packages together i
 ### Map 
 
 
-You can see the code to generate these examples in the [SyS-tools GitHub repository](https://github.com/haroldgil/SyS-tools/). For a step-by-by walkthrough of how to use the code, see the [SyS-tools wiki](https://github.com/haroldgil/SyS-tools/wiki/). 
+You can see the code to generate these examples in the [SyS-tools GitHub repository](https://github.com/haroldgil/SyS-tools/). For a step-by-by walkthrough of how to use the code, see the [SyS-tools GitHub wiki](https://github.com/haroldgil/SyS-tools/wiki/). 
 
 ## Authors and Contributors
 Many of the tools demoed on this page were entirely developed by others. I do not take credit for their work. My main contribution here is to collate, adapt, and present them in one location.
 
 ## Support or Contact
-Contact Harold Gil (@hgil) for more information.
+Contact Harold Gil (@haroldgil) for more information.
