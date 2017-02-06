@@ -1,0 +1,8 @@
+title: Syndromic Surveillance Tools
+description: A library of R packages and code to support syndromic surveillance data visualization.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
