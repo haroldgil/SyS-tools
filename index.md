@@ -8,6 +8,7 @@ An openly-available, structured framework that allows simple integration of anal
 
 ### Features
 This webpage showcases several analytic tools for syndromic data analysis. Examples include: 
+* historical trend-line
 * heatmaps
 * change-point detection
 * outlier detection
@@ -16,12 +17,25 @@ This webpage showcases several analytic tools for syndromic data analysis. Examp
 
 This site also describes how to mesh features from different packages together into dashboards so that you can easily adopt these tools and integrate them into your disease surveillance workflow.
 
-### Test
-Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-After your page is generated, you can check out the new `gh-pages` branch locally. 
+### Examples
+
+# Historical trend-line
+
+# Heatmap
+
+# Change-point detection
+
+# Outlier detection
+
+# Table
+
+# Map 
+
+
+You can see the code to generate these examples in the [SyS-tools GitHub repository](https://github.com/haroldgil/SyS-tools/). For a step-by-by walkthrough of how to use the code, see the [SyS-tools wiki](https://github.com/haroldgil/SyS-tools/wiki/). 
 
 ### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+Many of the tools demoed on this page were entirely developed by others. I do not take credit for their work. My main contribution here is to collate, adapt, and present them in one location.
 
 ### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact Harold Gil (@hgil) for more information.
