@@ -13,8 +13,6 @@ This webpage showcases several analytic tools for syndromic data analysis. Examp
 * historical trend-line
 * heatmaps
 * change-point detection
-* outlier detection
-* tables
 * maps 
 
 This site also describes how to mesh features from different packages together into dashboards so that you can easily adopt these tools and integrate them into your disease surveillance workflow.
@@ -22,17 +20,16 @@ This site also describes how to mesh features from different packages together i
 ## Examples
 
 ### Historical trend-line
+![Image of historical trend line](https://github.com/haroldgil/SyS-tools/blob/master/images/historical-trend-line.PNG)
 
 ### Heatmap
+![Image of heatmap](https://github.com/haroldgil/SyS-tools/blob/master/images/heatmap.PNG)
 
 ### Change-point detection
-
-### Outlier detection
-
-### Table
+![Image of change point detection plot](https://github.com/haroldgil/SyS-tools/blob/master/images/change-point-detection.PNG)
 
 ### Map 
-
+![Image of map](https://github.com/haroldgil/SyS-tools/blob/master/images/maps.PNG)
 
 You can see the code to generate these examples in the [SyS-tools GitHub repository](https://github.com/haroldgil/SyS-tools/). For a step-by-by walkthrough of how to use the code, see the [SyS-tools GitHub wiki](https://github.com/haroldgil/SyS-tools/wiki/). 
 
