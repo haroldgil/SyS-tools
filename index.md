@@ -25,7 +25,7 @@ This site also describes how to mesh features from different packages together i
 
 ### Heatmap
 
-![Image of heatmap](https://github.com/haroldgil/SyS-tools/blob/master/raw/heatmap.PNG)
+![Image of heatmap](https://github.com/haroldgil/SyS-tools/raw/master/images/heatmap.PNG)
 
 ### Change-point detection
 
